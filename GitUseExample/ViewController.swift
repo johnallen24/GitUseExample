@@ -15,6 +15,8 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
         print("hello")
         view.backgroundColor = UIColor.blue
+        view.backgroundColor = UIColor.purple
+        
         
     }
 
