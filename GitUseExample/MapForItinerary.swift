@@ -6,4 +6,10 @@
 //  Copyright © 2018 jallen.studios. All rights reserved.
 //
 
-import Foundation
+import UIKit
+
+class mappy: UIView {
+    
+    
+    
+}
