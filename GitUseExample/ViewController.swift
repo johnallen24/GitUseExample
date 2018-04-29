@@ -16,7 +16,7 @@ class ViewController: UIViewController {
         print("hello")
         view.backgroundColor = UIColor.blue
         view.backgroundColor = UIColor.purple
-        
+        view.backgroundColor = UIColor.black
         
     }
 
