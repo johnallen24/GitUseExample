@@ -13,3 +13,8 @@ class mappy: UIView {
     
     
 }
+
+struct helloMate {
+    
+    
+}
